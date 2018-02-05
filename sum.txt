@@ -1,0 +1,22 @@
+package com.company;
+import java.util.Scanner;
+public class Main {
+
+    public static void main(String[] args) {
+	// write your code here
+        System.out.println("Hello world!!!");
+
+        Scanner sc = new Scanner(System.in);
+
+         System.out.println("enter number A ");
+        int numA = sc.nextInt();
+
+        System.out.println("enter number B ");
+        int numB = sc.nextInt();
+
+        int sum = numA + numB;
+        System.out.println("The sum is equal" + sum);
+		
+		m,skljsdfklnhdskj;lnkl
+    }
+}
